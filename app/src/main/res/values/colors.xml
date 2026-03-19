@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surfaceBackground">#F4EFDF</color>
+    <color name="panelBackground">#FFF9EC</color>
+    <color name="panelStroke">#D8CFB8</color>
+    <color name="boardBackground">#F1E8D1</color>
+    <color name="boardGrid">#DDCFAB</color>
+    <color name="snakeHead">#2D6A4F</color>
+    <color name="snakeBody">#4E9F6E</color>
+    <color name="foodColor">#D95D39</color>
+    <color name="overlayColor">#D92D6A4F</color>
+    <color name="overlayText">#FFFDF7</color>
+    <color name="textPrimary">#2D2A26</color>
+    <color name="textSecondary">#6A6358</color>
+    <color name="colorPrimary">#2D6A4F</color>
+    <color name="colorPrimaryVariant">#1F4F39</color>
+    <color name="colorSecondary">#D95D39</color>
+    <color name="colorOnPrimary">#FFFDF7</color>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI 贪吃蛇</string>
+    <string name="score_label">当前得分</string>
+    <string name="best_label">最高分</string>
+    <string name="status_label">状态</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+    <string name="restart">重新开始</string>
+    <string name="move_up">上</string>
+    <string name="move_left">左</string>
+    <string name="move_down">下</string>
+    <string name="move_right">右</string>
+    <string name="swipe_hint">支持按钮控制，也支持在棋盘区域滑动改变方向</string>
+    <string name="overlay_hint">点击继续或重新开始</string>
+    <string name="status_ready">就绪</string>
+    <string name="status_running">进行中</string>
+    <string name="status_paused">已暂停</string>
+    <string name="status_game_over">游戏结束</string>
+    <string name="game_over_message">游戏结束，本局得分 %1$d</string>
+</resources>
