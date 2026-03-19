@@ -1,4 +1,4 @@
-# AI 贪吃蛇
+# 贪吃蛇
 
 这是一个原生 Android 贪吃蛇项目，使用 Kotlin + View 系统实现，可以直接导入 Android Studio 运行，也可以按本文档在命令行完成 APK 构建。
 
